@@ -1,0 +1,4 @@
+pages/: Contains components that represent different routes or pages in your application, typically corresponding to the URL structure.
+
+Home.js: Represents the home page.
+About.js: Represents the about page.

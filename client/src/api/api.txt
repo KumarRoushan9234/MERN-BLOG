@@ -1,0 +1,1 @@
+api/: Contains functions to interact with external APIs, encapsulating all HTTP requests. This might include Axios instances, API configurations, and methods for making requests.

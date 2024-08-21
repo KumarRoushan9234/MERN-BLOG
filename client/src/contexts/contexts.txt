@@ -1,0 +1,1 @@
+contexts/: Contains React Contexts, which are used for managing and sharing global state across components without prop drilling.

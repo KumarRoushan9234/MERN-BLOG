@@ -1,0 +1,4 @@
+components/: Reusable UI components. Organized by feature or component type. For example:
+
+Button/: Contains a Button.js component and its associated Button.module.css or Button.scss.
+Header/: Contains a Header.js component and its styles.

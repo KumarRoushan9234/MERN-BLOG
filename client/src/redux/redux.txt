@@ -1,0 +1,4 @@
+**redux/ or store/: If you are using Redux, this directory contains the Redux setup: reducers, actions, slices (for Redux Toolkit), and store configuration.
+
+slices/: Contains feature slices if using Redux Toolkit.
+store.js: Central store configuration.
